@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028098775585",
+    "firebase_url": "https://basedatefirst.firebaseio.com",
+    "project_id": "basedatefirst",
+    "storage_bucket": "basedatefirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028098775585:android:59f9fcfc9a12e643c66160",
+        "android_client_info": {
+          "package_name": "com.example.basedatafirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028098775585-d4rvhnd5s4o0shfoqnd669efj3c3f8a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basedatafirstapp",
+            "certificate_hash": "8b9303aa3f43e8c1d893b62dae999402e1aee415"
+          }
+        },
+        {
+          "client_id": "1028098775585-c6r625q7tegtvminm3ktfnae0fmocppm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-C2Ofq0PjfCYYBKzRXuKkt9rrpQ0fFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028098775585-c6r625q7tegtvminm3ktfnae0fmocppm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
